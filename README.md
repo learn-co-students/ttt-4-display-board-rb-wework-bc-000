@@ -13,15 +13,7 @@ board = [" "," "," "," "," "," "," "," "," "]
 If we called `display_board` and passed in that `board` as an argument, we'd expect the following:
 
 ```ruby
-board = [" "," "," "," "," "," "," "," "," "]
-display_board(board)
 
-# Would Print:
-#    |   |   
-# -----------
-#    |   |   
-# -----------
-#    |   |   
 ```
 
 A board with an "X" in the middle:
