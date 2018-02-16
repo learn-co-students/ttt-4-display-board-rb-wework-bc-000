@@ -8,7 +8,7 @@ An empty board would be:
 
 ```ruby
 board = [" "," "," "," "," "," "," "," "," "]
-```
+```.
 
 If we called `display_board` and passed in that `board` as an argument, we'd expect the following:
 
